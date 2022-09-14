@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+body {
+    #grad1 {
+        height: 200px;
+        background-image: linear-gradient(rgb(0, 166, 255), yellow);
+    }
+      
+</body>
+</html>
+.container{
+    display: flex;
+align-items: center
+}
+img{
+max-width: 100% 
+}
+.ifram-col{
+    flex-basis: 50%;
+}
