@@ -1,0 +1,35 @@
+h1 {
+    color: white;
+    font-size: 60;
+    text-align: center;
+
+}
+h2 {
+    color: white;
+    font-size: 16;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: .5;
+    margin: auto;;
+    padding: 0px;
+    background-color: black;
+    font-color: white;
+}
+button{
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    font-size: 16;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    border-color: white;
+
+}
+button:hover{
+    color:black;
+    background-color: white;
+
+}
